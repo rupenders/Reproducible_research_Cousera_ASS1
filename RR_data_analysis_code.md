@@ -5,6 +5,7 @@ date: "9/23/2020"
 output: 
   html_document: 
     keep_md: yes
+    toc: yes
 ---
 
 
